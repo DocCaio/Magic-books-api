@@ -2,10 +2,10 @@ version: '3.8'
 
 services:
   postgres:
-    image: postgres:18
+    image: postgres:17
     container_name: postgres_api
     environment:
-      POSTGRES_DB: magicobooks
+      POSTGRES_DB: magicbooks
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: post
     ports:
