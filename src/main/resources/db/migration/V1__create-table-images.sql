@@ -16,4 +16,4 @@ INSERT INTO books (title, author, cover_url, description) VALUES
                                                               ('Home Apothecary', 'Frank Willians', 'https://i.imgur.com/Lrpcp4E.png', 'A épica ficção científica no deserto'),
                                                               ('The HouseMiad', 'Freida McFadden', 'https://i.imgur.com/Lf6Z8gk.png', 'Distopia clássica sobre vigilância'),
                                                               ('Atomic Habits', 'Jmaes Clear', 'https://i.imgur.com/zrlFqgU.png', 'As aventuras do cavaleiro andante'),
-                                                              ('Fearless', 'Lauren Roberts', 'https://i.imgur.com/y42LxDO.png', 'Um conto filosófico atemporal');
+                                                              ('Fearless', 'Lauren Roberts', 'https://imgur.com/y42LxDO.png', 'Um conto filosófico atemporal');
