@@ -77,3 +77,6 @@ O projeto segue o padrão de camadas clássico para garantir manutenibilidade e 
 
 *   **Caio** - *Desenvolvedor Principal* - [DocCaio](https://github.com/DocCaio)
 
+ ## 👨‍💻 Projeto
+
+ *  Front-end - [Projeto](https://github.com/DocCaio/Magic-Books)
