@@ -3,6 +3,7 @@ package com.magicbooks.api.model;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 import lombok.Data;
+import java.math.BigDecimal;
 
 @Data
 @Entity
@@ -21,4 +22,7 @@ public class Book {
     private String coverUrl;
 
     private String description;
+
+
+    private BigDecimal price;
 }
