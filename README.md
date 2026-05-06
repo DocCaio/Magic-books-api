@@ -10,7 +10,7 @@ Uma API robusta para gerenciamento de livrarias online , desenvolvida com o ecos
 
 O projeto foi construído utilizando as seguintes tecnologias:
 
-*   **Java 17** (ou a versão que você usou)
+*   **Java 21** 
 *   **Spring Boot 3**
 *   **Spring Data JPA**: Para persistência de dados.
 *   **PostgreSQL**: Banco de dados relacional.
